@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cinzel Decorative';
+    overflow: hidden;
+}
+
+body {
+    background: url('https://st4.depositphotos.com/3001967/30181/i/450/depositphotos_301816050-stock-photo-spooky-clown-hoodie-looking-camera.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color: #f00;
+    margin-top: 50px;
+}
+
+iframe {
+    opacity: .7;
+    max-width: 100%;
+    width: 50rem;
+    height: 30rem;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+}
+
+p {
+    color: #f00;
+    letter-spacing: 3px;
+}
